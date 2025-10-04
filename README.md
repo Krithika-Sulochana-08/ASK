@@ -5,6 +5,7 @@ Write a simple Python program for the modulation and demodulation of ASK and FSK
 Python: A versatile programming language used for scientific computing and signal processing.
 NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations.
 # Program
+```
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -51,7 +52,7 @@ plt.step(np.arange(len(decoded_bits)), decoded_bits, label='Decoded Bits', color
 plt.title('Decoded Bits')
 plt.tight_layout()
 plt.show()
-
+```
 # Output Waveform
 <img width="1670" height="505" alt="image" src="https://github.com/user-attachments/assets/ca9077cf-8be6-4d53-b5e8-d8ef47aec11b" />
 <img width="1542" height="508" alt="image" src="https://github.com/user-attachments/assets/adf06cf8-4eb1-467c-b711-8bc81bbd57f9" />
