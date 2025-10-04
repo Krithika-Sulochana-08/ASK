@@ -3,8 +3,9 @@
 Write a simple Python program for the modulation and demodulation of ASK.
 
 # Tools required
-Python: A versatile programming language used for scientific computing and signal processing.
-NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations.
+** Python: A versatile programming language used for scientific computing and signal processing.
+
+** NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations.
 
 # Program
 ```
