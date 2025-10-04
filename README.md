@@ -1,9 +1,11 @@
 # ASK-Amplitude Shift Keying
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
+
 # Tools required
 Python: A versatile programming language used for scientific computing and signal processing.
 NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations.
+
 # Program
 ```
 import numpy as np
@@ -56,5 +58,6 @@ plt.show()
 # Output Waveform
 <img width="1670" height="505" alt="image" src="https://github.com/user-attachments/assets/ca9077cf-8be6-4d53-b5e8-d8ef47aec11b" />
 <img width="1542" height="508" alt="image" src="https://github.com/user-attachments/assets/adf06cf8-4eb1-467c-b711-8bc81bbd57f9" />
+
 # Results
 Thus, the ASK(Amplitude Shift Keying) is performed successfully using Python. 
