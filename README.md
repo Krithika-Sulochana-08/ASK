@@ -1,6 +1,6 @@
 # ASK-Amplitude Shift Keying
 # Aim
-Write a simple Python program for the modulation and demodulation of ASK and FSK.
+Write a simple Python program for the modulation and demodulation of ASK.
 
 # Tools required
 Python: A versatile programming language used for scientific computing and signal processing.
